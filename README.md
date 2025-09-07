@@ -34,4 +34,4 @@ Below are the key screenshots captured from the notebook:
 ## 🚀 How to Use
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/Data-Science-Ecosystem.git
+   git clone https://github.com/<Kartik-Gore>/Data-Science-Ecosystem.git
